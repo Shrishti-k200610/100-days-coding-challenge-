@@ -4,7 +4,7 @@ The sum of 10 and 2 is 12
 The difference of 10 and 2 is 8
 The product of 10 and 2 is 20
 The quotient of 10 and 2 is 5
-
+git
 Enter the first number: 7
 Enter the second number: 3
 The sum of 7 and 3 is 10
