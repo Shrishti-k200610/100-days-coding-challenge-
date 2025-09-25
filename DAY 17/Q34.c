@@ -1,25 +1,32 @@
-//Write a program to check if a number is a palindrome.
+//Write a program to check if a number is prime.
 
 #include <stdio.h>
 int main() 
 {
-  int n, ori, rev = 0, r;
+  int n, i, isPrime = 1;
   printf("Enter a number: ");
   scanf("%d", &n);
-  ori = n;
-  while (n != 0) 
+  if (n <= 1) 
   {
-    r = n % 10;
-    rev = rev * 10 + r;
-    n = n / 10;
-  }
-  if (ori == rev) 
-  {
-    printf("Palindrome");
+    isPrime = 0;
   } 
   else 
   {
-    printf("Not a palindrome");
+    for (i = 2; i < n; i++) 
+    {
+      if (n % i == 0) 
+      {
+        isPrime = 0;
+      }
+    }
+  }
+  if (isPrime) 
+  {
+    printf("Prime number");
+  } 
+  else
+  {
+    printf("Not a prime number");
   }
   return 0;
 }
