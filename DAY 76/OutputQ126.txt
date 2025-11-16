@@ -1,0 +1,7 @@
+Enter the filename to open: sample.txt
+
+File opened successfully.
+welcome to C programming
+
+Enter the filename to open: nofile.txt
+Error: File does not exist!.
