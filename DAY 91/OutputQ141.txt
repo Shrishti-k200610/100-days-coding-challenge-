@@ -1,0 +1,6 @@
+Enter name: Shrishti
+Enter roll number: 108
+Enter marks: 90
+Name: Shrishti
+Roll No: 108
+Marks: 90.00
