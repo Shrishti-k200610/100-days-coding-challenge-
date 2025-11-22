@@ -1,0 +1,6 @@
+Enter name: PIYAL
+Enter roll number: 104
+Enter marks: 90
+Name: PIYAL
+Roll No: 104
+Marks: 90.00
