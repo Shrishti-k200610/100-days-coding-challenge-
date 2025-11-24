@@ -1,0 +1,8 @@
+Enter employee name: ruhi
+Enter employee ID: 11
+Enter joining date (dd mm yyyy): 10 05 2016
+
+Employee Details: 
+Name: ruhi
+Employee ID: 11
+Joining Date: 10-05-2016
