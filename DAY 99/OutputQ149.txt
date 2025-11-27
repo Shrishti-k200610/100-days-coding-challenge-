@@ -1,0 +1,8 @@
+Enter student name: Tira
+Enter roll number: 102
+Enter marks: 90
+
+Student Details: 
+Name: Tira
+Roll No.: 102
+Marks: 90.00
