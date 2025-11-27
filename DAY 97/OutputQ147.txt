@@ -1,0 +1,8 @@
+Enter employee name: shrishti
+Enter employee ID: 590024983
+Enter salary: 0/
+
+Employee Details: 
+Name: shrishti
+Employee ID: 590024983
+Salary: 0.00
